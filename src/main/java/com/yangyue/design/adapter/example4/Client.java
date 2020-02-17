@@ -24,7 +24,7 @@ public class Client {
         LogDbOperateApi  dbOperateApi=new LogDbOperate();
 
         //写日志文件
-        TwoDirectAdapter twoDirectAdapter = new TwoDirectAdapter(operateApi, dbOperateApi);
+        //LogFileOperateApi cc = new TwoDirectAdapter(operateApi, dbOperateApi);
 
     }
 }
