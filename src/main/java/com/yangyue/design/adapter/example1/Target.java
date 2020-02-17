@@ -8,5 +8,5 @@ package com.yangyue.design.adapter.example1;
  **/
 public interface Target {
     //示意方法，客户端请求处理的方法
-    public  void  Requst();
+    public  void  request();
 }

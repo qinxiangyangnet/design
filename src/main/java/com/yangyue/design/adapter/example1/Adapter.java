@@ -6,7 +6,7 @@ package com.yangyue.design.adapter.example1;
  * @author: yueyang
  * @create: 2020-02-18 03:58
  **/
-public class Adapter {
+public class Adapter implements  Target {
     /**
      * 持有需要被适配的接口对象
      */
@@ -24,4 +24,5 @@ public class Adapter {
         //可能已经转调已经实现了方法，并进行适配
         adaptee.specificRequest();
     }
+
 }
