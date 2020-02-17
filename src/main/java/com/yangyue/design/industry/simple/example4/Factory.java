@@ -25,7 +25,6 @@ public class Factory {
          *
          *
          */
-
         Properties properties = new Properties();
         InputStream in = null;
         try {
