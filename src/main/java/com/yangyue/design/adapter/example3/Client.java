@@ -23,11 +23,11 @@ public class Client {
         //写日志文件
         LogFileOperateApi api  = new LogFileOperate("");
        // Adapter adapter = new Adapter(api);
-        new Adapter(api, new TimeUtil())
-        adapter.createLog(logModel);
-
-        List<LogModel> lists = adapter.list(logModel);
-        System.out.println(lists.toString());
+        new Adapter(api, new TimeUtil());
+//        adapter.createLog(logModel);
+//
+//        List<LogModel> lists = adapter.list(logModel);
+       // System.out.println(lists.toString());
 
     }
 }
