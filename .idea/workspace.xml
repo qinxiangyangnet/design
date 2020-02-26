@@ -2,116 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ded5eef2-2164-4906-98f0-a9b193f5e827" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/AbstractProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/AbstractProductB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/ConcreteFactory1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/ConcreteFactory2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/ProductA1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/ProductA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/ProductB1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example1/ProductB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/AMDCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/CPUApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/CPUFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/ComputerEngineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/GAMainboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/IntelCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/MSIMainboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/MainboardApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/MainboardFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/AMDCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/CPUApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/CPUFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/ComputerEngineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/IntelCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/MSIMainboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/MainboardApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/Schema1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/Scheme2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/AMDCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/CPUApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/CPUFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/ComputerEngineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/GAMainboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/HyMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/IntelCPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/MSIMainboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/MainboardApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/MemoryApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/Schema1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/Scheme2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/Scheme3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/BusinessObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/DAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/OrderDetailDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/OrderMainDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/RdbDAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/RdbDetailDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/RdbMainDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/XMLDAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/XMLDetailDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/XmlMainDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/business/BusinessObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/MyDAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/dao/DAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/OrderDetailDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/OrderMainDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDetailDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbMainDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDAOFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDetailDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/XmlMainDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/AbstractFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/AbstractProductA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/AbstractProductB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ConcreteFactory1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ConcreteFactory2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductA1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductA2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductB1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductB2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/AMDCPU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/CPUApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/CPUFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/ComputerEngineer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/GAMainboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/IntelCPU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/MSIMainboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/MainboardApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/MainboardFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportOperate2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportXml.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/Abc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportDb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportDbOperate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportFileApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportOperate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportTextOperate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportXml.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportXmlOperate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/Operate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateDB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateDBTT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateTextTT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example1/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example1/AbstractProductB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example1/ConcreteFactory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example1/ProductA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example1/ProductB1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example2/AMDCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example2/CPUFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example2/ComputerEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example2/MSIMainboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example2/MainboardApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example2/MainboardFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example3/ComputerEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example3/IntelCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example3/Schema1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example3/Scheme2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/AMDCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/GAMainboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/HyMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/IntelCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/MSIMainboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/MemoryApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/Schema1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/Scheme3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/BusinessObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/DAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/OrderMainDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/RdbDAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/XMLDAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/XmlMainDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/business/BusinessObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/MyDAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/dao/DAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/OrderDetailDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/OrderMainDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/RdbDAOFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/XmlMainDAOImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportOperate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportOperate.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -124,94 +56,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BusinessObject.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/business/BusinessObject.java">
+      <file leaf-file-name="ExportDb.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/ExportDb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyDAOFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/MyDAOFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RdbMainDAOImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbMainDAOImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="121">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DAOFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/dao/DAOFactory.java">
+      <file leaf-file-name="ExportOperate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/ExportOperate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="165">
+              <caret line="31" column="32" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XMLDetailDAOImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDetailDAOImpl.java">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="143">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderMainDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/OrderMainDAO.java">
+      <file leaf-file-name="ExportDbOperate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportDbOperate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="166">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportOperate.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportOperate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportTextOperate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportTextOperate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportFileApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportFileApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
               <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RdbDetailDAOImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDetailDAOImpl.java">
+      <file leaf-file-name="ExportText.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportText.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="121">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RdbDAOFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDAOFactory.java">
+      <file leaf-file-name="ExportXml.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportXml.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="121">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XMLDAOFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDAOFactory.java">
+      <file leaf-file-name="ExportDb.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportDb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XmlMainDAOImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/XmlMainDAOImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="121">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
@@ -399,30 +328,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="yangyue" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="Abstractfactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yangyue" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="productmethod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yangyue" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="productmethod" type="462c0819:PsiDirectoryNode" />
-              <item name="example2" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design" type="b2602c69:ProjectViewProjectNode" />
@@ -481,57 +387,57 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.BusinessObject (1)">
-    <configuration name="BusinessObject (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.Abstractfactory.example6.business.BusinessObject" />
+    <configuration name="BusinessObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example5.BusinessObject" />
       <module name="design" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangyue.design.Abstractfactory.example6.business.*" />
+          <option name="PATTERN" value="com.yangyue.design.abstractfactory.example5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="BusinessObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.Abstractfactory.example5.BusinessObject" />
+      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example6.business.BusinessObject" />
       <module name="design" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangyue.design.Abstractfactory.example5.*" />
+          <option name="PATTERN" value="com.yangyue.design.abstractfactory.example6.business.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.Abstractfactory.example4.Client" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example2.Client" />
       <module name="design" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangyue.design.Abstractfactory.example4.*" />
+          <option name="PATTERN" value="com.yangyue.design.abstractfactory.example2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.Abstractfactory.example2.Client" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example3.Client" />
       <module name="design" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangyue.design.Abstractfactory.example2.*" />
+          <option name="PATTERN" value="com.yangyue.design.abstractfactory.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.Abstractfactory.example3.Client" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example4.Client" />
       <module name="design" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangyue.design.Abstractfactory.example3.*" />
+          <option name="PATTERN" value="com.yangyue.design.abstractfactory.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -607,7 +513,7 @@
       <workItem from="1581818409251" duration="27712000" />
       <workItem from="1582239079753" duration="9368000" />
       <workItem from="1582349862591" duration="9947000" />
-      <workItem from="1582669876244" duration="8568000" />
+      <workItem from="1582669876244" duration="9610000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;design project create&quot;">
       <created>1581818667404</created>
@@ -686,11 +592,25 @@
       <option name="project" value="LOCAL" />
       <updated>1582417889785</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;抽象工厂模式&quot;">
+      <created>1582687487776</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582687487777</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&quot;抽象工厂模式&quot;">
+      <created>1582687854849</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582687854849</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55595000" />
+    <option name="totallyTimeSpent" value="56637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -701,12 +621,12 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.115733735" side_tool="true" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.115733735" side_tool="true" weight="0.3298969" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.071104385" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.88426626" visible="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.88426626" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" visible="true" weight="0.3298969" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
@@ -739,7 +659,8 @@
     <MESSAGE value="&quot;适配器模式&quot;" />
     <MESSAGE value="&quot;单例模式&quot;" />
     <MESSAGE value="&quot;工厂方法模式&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;工厂方法模式&quot;" />
+    <MESSAGE value="&quot;抽象工厂模式&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;抽象工厂模式&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -763,7 +684,7 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/BusinessObject.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/BusinessObject.java</url>
           <line>13</line>
           <properties />
           <option name="timeStamp" value="11" />
@@ -782,142 +703,61 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/CPUFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/IntelCPU.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/CPUApi.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/AMDCPU.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/MainboardFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/CPUApi.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/MainboardApi.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/MainboardApi.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/GAMainboard.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/MSIMainboard.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/AMDCPU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/Scheme2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/ComputerEngineer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example3/Schema1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/MSIMainboard.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/IntelCPU.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/AMDCPU.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/CPUApi.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/MainboardApi.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/MainboardApi.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example2/MainboardApi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example2/MainboardFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example2/MainboardFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/GAMainboard.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/GAMainboard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/CPUFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/CPUFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/MemoryApi.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/MemoryApi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/HyMemory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/HyMemory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
@@ -928,49 +768,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/Scheme2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/Scheme2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/Schema1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/Schema1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="19" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/Scheme3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/Scheme3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/ComputerEngineer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/ComputerEngineer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example4/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example4/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/OrderMainDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/OrderMainDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/RdbMainDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/RdbMainDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
@@ -981,14 +821,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/OrderDetailDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/OrderDetailDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/XmlMainDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/XmlMainDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="71" />
@@ -998,7 +838,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/XMLDetailDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/XMLDetailDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="5" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="11" selection-end-column="5" />
@@ -1009,7 +849,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/RdbDetailDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/RdbDetailDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
@@ -1020,14 +860,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/DAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/DAOFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/XMLDAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/XMLDAOFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
@@ -1040,7 +880,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/RdbDAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/RdbDAOFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
@@ -1053,77 +893,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example5/BusinessObject.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/BusinessObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/OrderDetailDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/OrderDetailDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/OrderMainDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/OrderMainDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDetailDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/RdbDetailDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbMainDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/RdbMainDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDetailDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/XMLDetailDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/XmlMainDAOImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/XmlMainDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/dao/DAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/dao/DAOFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/RdbDAOFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/impl/XMLDAOFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/dao/MyDAOFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/dao/MyDAOFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="25" />
@@ -1133,10 +973,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/Abstractfactory/example6/business/BusinessObject.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example6/business/BusinessObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="312">
           <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/ExportFileApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/ExportText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/ExportXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/ExportDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example2/ExportOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportDbOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportTextOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportFileApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/productmethod/example3/ExportOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
         </state>
       </provider>
     </entry>
