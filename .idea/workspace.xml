@@ -1,160 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ded5eef2-2164-4906-98f0-a9b193f5e827" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Invacation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example1/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example1/ConcreteClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example2/LoginModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example2/NomalLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example2/UserModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example3/LoginModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example3/WorkerLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example3/WorkerModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/LoginModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/NomalLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/NomalLogin2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/NomalLoginModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/WorkerLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example5/AbstractTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/LoginCallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/LoginModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example7/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example7/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AppConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FactoryTest.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/AbstractProductA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/AbstractProductB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ConcreteFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ConcreteFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductA1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductA2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductB1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductB2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/AMDCPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/CPUApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/CPUFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/ComputerEngineer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/GAMainboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/IntelCPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/MSIMainboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/MainboardApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/MainboardFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/AMDCPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/CPUApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/CPUFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/ComputerEngineer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/IntelCPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/MSIMainboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/MainboardApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/Schema1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/Scheme2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/AMDCPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/CPUApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/CPUFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/ComputerEngineer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/GAMainboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/HyMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/IntelCPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/MSIMainboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/MainboardApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/MemoryApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/Schema1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/Scheme2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/Scheme3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/BusinessObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/DAOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/OrderDetailDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/OrderMainDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/RdbDAOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/RdbDetailDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/RdbMainDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/XMLDAOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/XMLDetailDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/XmlMainDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/business/BusinessObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/MyDAOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/dao/DAOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/OrderDetailDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/OrderMainDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDAOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDetailDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbMainDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDAOFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDetailDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/XmlMainDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example1/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example1/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example1/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example2/LogFileOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example2/LogFileOperateApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example2/LogModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/DefaultAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/LogDbOperateApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/LogFileOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/LogFileOperateApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/LogModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/MyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/TimeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogDbOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogDbOperateApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogFileOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogFileOperateApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/TwoDirectAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/Buisiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/ConfigManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/ConfigModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/DAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/Presentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/AModuleApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/AModuleApiImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/BModuleApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/BModuleApiImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/CModuleApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/CModuleApiImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/Buisiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/ConfigManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/ConfigModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/DAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/Presentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example4/AModuleApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example4/BModuleApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example4/CModuleApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example4/FacadeApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/Buisiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/ConfigManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/ConfigModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/DAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/FacadeApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/FacadeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/Presentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example1/ConcreteCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example1/ConcreteProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example1/Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example1/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportDb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportFileApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportOperate2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportXml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/Abc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportDb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportDbOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportFileApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportTextOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportXml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportXmlOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/Operate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateDBTT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateTextTT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example1/Api.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example1/Impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/Api.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/ImplA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/ImplB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example3/Api.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example3/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example3/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example3/Impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Api.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Impl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example5/MyUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Api.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Impl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Impl2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example1/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example10/OneExtend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example2/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example3/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example4/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example5/JavaCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example6/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example7/Singleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example7/Singleton$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example7/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example8/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example9/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example9/Singleton.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example7/UserModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example7/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#605#616#0" expanded="true" />
-                <element signature="e#873#1271#0" expanded="true" />
-                <element signature="e#1270#1271#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/BaseService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Invacation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Invacation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/example2/Proxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/example2/Order.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-88">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Proxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/example1/Proxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="28" column="23" selection-start-line="28" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProxyFactory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/ProxyFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="27" column="48" selection-start-line="27" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-              <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -173,252 +251,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example2/TempDB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example2/Prize.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example2/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/exaple3/Componet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/exaple3/ConcreteComponent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/exaple3/Decorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/exaple3/MonthPrizeDecorqator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/exaple3/SumPrizeDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/exaple3/GroupPrizeDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/exaple3/TempDB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/exaple3/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/EncrypetOutputStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example4/EncrypetOutputStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example4/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example4/EncrypetOutputStream2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/SaleModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/Component.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/ConcreteComponent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/Decorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/LogDecorater.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/CheckDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example1/AbstractClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example1/ConcreteClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example2/UserModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example2/LoginModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example2/NomalLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example3/WorkerModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/LoginModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example3/LoginModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example3/WorkerLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/Template.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/NomalLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/WorkerLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/NomalLoginModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/NomalLogin2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example5/AbstractTemplate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/LoginModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/LoginTemplate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/LoginCallBack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/Template.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example7/UserModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example7/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/behavior.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/BaseService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/ProxyFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Invacation.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="G:\maven\repository" />
-        <option name="mavenHome" value="G:/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="G:\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="localRepository" value="E:\depository" />
+        <option name="mavenHome" value="E:\software\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\software\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="design" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectId" id="1vsZbdHtMn6T3vBFqn6WGtFB0FR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yangyue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yangyue" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yangyue" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yangyue" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="examle4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="yangyue" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="de&#9;PSI&#9;JAVA://com.yangyue.design.adapter.example3.DefaultAdapter" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -440,16 +308,9 @@
       <recent name="G:\ProjectHome\design\src\main\java\com\yangyue\design\Abstractfactory\example3" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
     </option>
   </component>
   <component name="RunManager" selected="Application.Client (4)">
@@ -463,6 +324,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="BusinessObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example6.business.BusinessObject" />
@@ -485,6 +349,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yangyue.design.decorator.example4.Client" />
@@ -496,6 +363,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yangyue.design.template.example4.Client" />
@@ -507,6 +377,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yangyue.design.proxy.examle4.Client" />
@@ -518,6 +391,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example3.Client" />
@@ -529,6 +405,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example4.Client" />
@@ -543,46 +422,39 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Client" />
       <item itemvalue="Application.BusinessObject" />
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (2)" />
@@ -599,6 +471,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -620,6 +493,7 @@
       <workItem from="1583018523364" duration="1229000" />
       <workItem from="1583185800979" duration="646000" />
       <workItem from="1583642840007" duration="3663000" />
+      <workItem from="1627352831332" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;design project create&quot;">
       <created>1581818667404</created>
@@ -736,48 +610,19 @@
     <option name="localTasksCounter" value="17" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88764000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.48487142" weight="0.33676976" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.115733735" side_tool="true" weight="0.3298969" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.071104385" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.88426626" visible="true" weight="0.3298969" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.07560138" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29198185" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.030927835" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;design project create&quot;" />
@@ -792,41 +637,65 @@
     <MESSAGE value="&quot;装饰者模式&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;装饰者模式&quot;" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1627353079496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353079496" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1627353106770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353106770" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1627353106770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353106770" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1627353106770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353106770" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1627353106770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353106770" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1627353180900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353180900" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1627353105523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353105523" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://F:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/lang/Class.class</url>
           <line>678</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://F:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/lang/ClassLoader.class</url>
           <line>448</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/yangyue/design/simple/example4/Factory.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/yangyue/design/abstractfactory/example5/BusinessObject.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/ProxyFactory.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -837,453 +706,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example3/TempDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example3/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example4/EncrypetOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example4/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/io/FilterOutputStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example4/EncrypetOutputStream2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Adapter.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyEncryt.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/SaleModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/ConcreteComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/Decorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/LogDecorater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/decorator/example5/CheckDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/facade/example2/BModuleApiImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/facade/example2/CModuleApiImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/facade/example2/AModuleApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/facade/example2/Facade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/facade/example2/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example1/ConcreteClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example2/UserModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example2/LoginModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example2/NomalLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example3/WorkerModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example3/LoginModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example3/WorkerLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/WorkerLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/NomalLoginModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/NomalLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/NomalLogin2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example1/AbstractClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example5/AbstractTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/Template.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="63" />
-          <folding>
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/LoginCallBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/LoginModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/LoginModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example4/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/Template.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example6/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example7/UserModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/template/example7/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#605#616#0" expanded="true" />
-            <element signature="e#873#1271#0" expanded="true" />
-            <element signature="e#1270#1271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/BaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/example2/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/example2/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/example1/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="28" column="23" selection-start-line="28" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Invacation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yangyue/design/proxy/examle4/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="27" column="48" selection-start-line="27" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>design</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
