@@ -22,209 +22,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ded5eef2-2164-4906-98f0-a9b193f5e827" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ded5eef2-2164-4906-98f0-a9b193f5e827" name="Default" comment="&quot;装饰者模式&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/strategy/AirPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/strategy/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/strategy/Harreier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/strategy/Helicopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/strategy/PlaneStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/demo1/AbstractTemplateAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/demo1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/demo1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangyue/design/template/demo1/TemplateMethod1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AppConfig.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FactoryTest.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/AbstractProductA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/AbstractProductB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ConcreteFactory1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ConcreteFactory2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductA1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductA2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductB1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example1/ProductB2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/AMDCPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/CPUApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/CPUFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/ComputerEngineer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/GAMainboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/IntelCPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/MSIMainboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/MainboardApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example2/MainboardFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/AMDCPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/CPUApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/CPUFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/ComputerEngineer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/IntelCPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/MSIMainboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/MainboardApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/Schema1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example3/Scheme2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/AMDCPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/CPUApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/CPUFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/ComputerEngineer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/GAMainboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/HyMemory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/IntelCPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/MSIMainboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/MainboardApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/MemoryApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/Schema1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/Scheme2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example4/Scheme3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/BusinessObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/DAOFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/OrderDetailDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/OrderMainDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/RdbDAOFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/RdbDetailDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/RdbMainDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/XMLDAOFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/XMLDetailDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example5/XmlMainDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/business/BusinessObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/MyDAOFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/dao/DAOFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/OrderDetailDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/OrderMainDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDAOFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbDetailDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/RdbMainDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDAOFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/XMLDetailDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Abstractfactory/example6/dao/impl/XmlMainDAOImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example1/Adaptee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example1/Adapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example1/Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example2/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example2/LogFileOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example2/LogFileOperateApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example2/LogModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/Adapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/DefaultAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/LogDbOperateApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/LogFileOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/LogFileOperateApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/LogModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/MyAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example3/TimeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogDbOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogDbOperateApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogFileOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogFileOperateApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/LogModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/adapter/example4/TwoDirectAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/Buisiness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/ConfigManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/ConfigModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/DAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example1/Presentation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/AModuleApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/AModuleApiImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/BModuleApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/BModuleApiImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/CModuleApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/CModuleApiImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example2/Facade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/Buisiness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/ConfigManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/ConfigModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/DAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/Facade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example3/Presentation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example4/AModuleApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example4/BModuleApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example4/CModuleApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example4/FacadeApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/Buisiness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/ConfigManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/ConfigModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/DAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/Facade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/FacadeApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/FacadeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/facade/example5/Presentation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example1/ConcreteCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example1/ConcreteProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example1/Creator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example1/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportDb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportFileApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportOperate2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example2/ExportXml.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/Abc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportDb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportDbOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportFileApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportTextOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportXml.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example3/ExportXmlOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/Operate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateDBTT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/OperateTextTT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/productmethod/example4/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example1/Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example1/Impl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/ImplA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example2/ImplB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example3/Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example3/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example3/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example3/Impl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Impl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example4/Impl2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example5/MyUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Impl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/simple/example6/Impl2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example1/AppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example1/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example10/OneExtend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example2/AppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example2/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example3/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example4/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example5/JavaCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example6/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example7/Singleton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example7/Singleton$InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example7/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example8/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example9/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yangyue/design/singleton/example9/Singleton.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,11 +73,6 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
-  </component>
   <component name="ProjectId" id="1vsZbdHtMn6T3vBFqn6WGtFB0FR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -289,23 +94,23 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\ProjectHome\design\src\main\java\com\yangyue\design\industry\simple\example4" />
-      <recent name="G:\ProjectHome\design\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.yangyue.design.template.example6" />
-      <recent name="com.yangyue.design.template.example3" />
-      <recent name="com.yangyue.design.decorator.example4" />
-      <recent name="com.yangyue.design.decorator.exaple3" />
-      <recent name="com.yangyue.design.Abstractfactory.example4" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\study\design" />
       <recent name="G:\ProjectHome\design\src\main\java\com\yangyue\design\template\example3" />
       <recent name="G:\ProjectHome\design\src\main\java\com\yangyue\design\proxy\example3" />
       <recent name="G:\ProjectHome\design\src\main\java\com\yangyue\design\Abstractfactory\example6" />
       <recent name="G:\ProjectHome\design\src\main\java\com\yangyue\design\Abstractfactory\example4" />
-      <recent name="G:\ProjectHome\design\src\main\java\com\yangyue\design\Abstractfactory\example3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yangyue.design.strategy" />
+      <recent name="com.yangyue.design.template.example6" />
+      <recent name="com.yangyue.design.template.example3" />
+      <recent name="com.yangyue.design.decorator.example4" />
+      <recent name="com.yangyue.design.decorator.exaple3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\ProjectHome\design\src\main\java\com\yangyue\design\industry\simple\example4" />
+      <recent name="G:\ProjectHome\design\src\main\resources" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -313,21 +118,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (4)">
-    <configuration name="BusinessObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example5.BusinessObject" />
-      <module name="design" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yangyue.design.abstractfactory.example5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client (5)">
     <configuration name="BusinessObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example6.business.BusinessObject" />
       <module name="design" />
@@ -395,13 +186,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.abstractfactory.example3.Client" />
+    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yangyue.design.strategy.Client" />
       <module name="design" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yangyue.design.abstractfactory.example3.*" />
+          <option name="PATTERN" value="com.yangyue.design.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,20 +245,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.BusinessObject" />
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client (3)" />
       <item itemvalue="Application.Client (4)" />
+      <item itemvalue="Application.Client (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +283,7 @@
       <workItem from="1583018523364" duration="1229000" />
       <workItem from="1583185800979" duration="646000" />
       <workItem from="1583642840007" duration="3663000" />
-      <workItem from="1627352831332" duration="344000" />
+      <workItem from="1627352831332" duration="3490000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;design project create&quot;">
       <created>1581818667404</created>
@@ -607,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582906481774</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="&quot;装饰者模式&quot;">
+      <created>1627353331062</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1627353331062</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,30 +435,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="&quot;装饰者模式&quot;" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="574" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1627363433268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627363433268" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1627353079496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353079496" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1627353106770">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1627353283229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353106770" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1627353106770">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353283229" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1627353283229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353106770" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1627353106770">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353283229" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1627353283229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353106770" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1627353106770">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353283229" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1627353283229">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353106770" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353283229" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1627353180900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353180900" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1627353333693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1627353333693" />
     <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1627353105523">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
